@@ -1,11 +1,9 @@
 <div align="center">
 
 # 👋 Hi, I'm Jun Gil, a software developer  
-As **a Computer Science graduate from Ajou University**, I am now fully committed to launching my career in software industry.  
-I define myself as **a backend developer** who refuses to be limited by boundaries, maintaining a deep interest in **the entire web, mobile and IoT system**.  
-I have an insatiable appetite for learning and always strive to move forward.  
-To further enhance my technical depth, I am currently diving deep into service **Performance Tuning and DevOps automation**.
-
+As **a Computer Science graduate from Ajou University**, I'm now fully committed to launching my career in software industry.  
+I define myself as **a backend developer** who maintains a deep interest in **the entire web, mobile and IoT system**.  
+To further enhance my technical depth, I am currently diving deep into **Performance Tuning and DevOps automation**.
 
 </div>
 
@@ -13,7 +11,7 @@ To further enhance my technical depth, I am currently diving deep into service *
 
 # 🚀 About Me
 <strong>[KDT] HDC 랩스 스마트 IoT 풀스택 개발자 1기 수료</strong>   
-<strong></strong>   
+<strong>[대학 현장실습] 링크밸류 - 라이프케어랩 단기 인턴십</strong>   
 
 <br>
 
