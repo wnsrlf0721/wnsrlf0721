@@ -18,8 +18,9 @@ To further enhance my technical depth, I am currently diving deep into **Perform
 [포트폴리오 링크](https://github.com/wnsrlf0721/portfolio)
 
 ---
-
-# 🛠 Tech Stack
+<details>
+<summary> <h1 style="display: inline;">🛠 Tech Stack (Details)</h1> </summary>
+<br>
 
 ## Backend  
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -74,11 +75,13 @@ To further enhance my technical depth, I am currently diving deep into **Perform
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ---
 
+</details>
+
 <br>
 <br>
 <br>
 
-## Status
+# 💡 Status
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnsrlf0721&layout=compact&theme=holi)
 
