@@ -83,10 +83,6 @@ To further enhance my technical depth, I am currently diving deep into **Perform
 
 # 💡 Status
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnsrlf0721&layout=compact&theme=holi)
-
-![Jun Gil's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnsrlf0721&show_icons=true&theme=holi)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsrlf0721)](https://solved.ac/wnsrlf0721/)
 
 <br>
